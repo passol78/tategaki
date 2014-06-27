@@ -31,7 +31,8 @@ Gem::Specification.new do |s|
     "bin/tategaki",
     "lib/tategaki.rb",
     "spec/spec_helper.rb",
-    "spec/tategaki_spec.rb"
+    "spec/tategaki_spec.rb",
+    "tategaki.gemspec"
   ]
   s.homepage = "http://github.com/passol78/tategaki"
   s.licenses = ["MIT"]
