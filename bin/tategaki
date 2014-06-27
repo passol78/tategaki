@@ -1,0 +1,15 @@
+#!/usr/bin/env ruby
+# encoding:utf-8
+
+require_relative '../lib/tategaki'
+
+if ARGV.size == 0
+  usage =<<EOF
+  Usage: ruby #{$0} 文字列1 文字列2 ...
+EOF
+  puts usage
+  exit
+end
+
+items = ARGV
+tategaki(items)
