@@ -17,10 +17,10 @@ Jeweler::Tasks.new do |gem|
   gem.name = "tategaki"
   gem.homepage = "http://github.com/passol78/tategaki"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "passol78.valie77@gmail.com"
-  gem.authors = ["yutaka.kanno"]
+  gem.summary = %Q{tagegaki word1 word2}
+  gem.description = %Q{yokogaki -> tategaki}
+  gem.email = "passol.78.valie.77@gmail.com"
+  gem.authors = ["passol78"]
   # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new
