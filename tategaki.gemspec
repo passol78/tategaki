@@ -6,12 +6,12 @@
 
 Gem::Specification.new do |s|
   s.name = "tategaki"
-  s.version = "0.0.2"
+  s.version = "0.0.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.require_paths = ["lib"]
   s.authors = ["passol78"]
-  s.date = "2014-06-27"
+  s.date = "2016-05-11"
   s.description = "yokogaki -> tategaki"
   s.email = "passol.78.valie.77@gmail.com"
   s.executables = ["tategaki"]
@@ -36,7 +36,7 @@ Gem::Specification.new do |s|
   ]
   s.homepage = "http://github.com/passol78/tategaki"
   s.licenses = ["MIT"]
-  s.rubygems_version = "2.2.2"
+  s.rubygems_version = "2.4.5.1"
   s.summary = "tagegaki word1 word2"
 
   if s.respond_to? :specification_version then
